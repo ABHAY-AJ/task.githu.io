@@ -52,7 +52,7 @@ body{
 }
 .active,.menu-bar ul li:hover{
     background:black;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 
